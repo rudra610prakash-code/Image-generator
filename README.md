@@ -13,10 +13,7 @@ A sleek image search engine powered by Unsplash API. Find and explore millions o
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- Node.js (v14+)
-- npm or yarn
-- Unsplash API Key
+
 
 ### Installation
 
