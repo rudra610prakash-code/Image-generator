@@ -42,18 +42,15 @@ This project uses the **Unsplash API** to fetch high-quality images.
 
 ### Getting Your API Key
 
-1. Visit [Unsplash Developer Console](https://unsplash.com/developers)
-2. Create a new account or sign in
-3. Create a new application
-4. Copy your **Access Key**
+ Create a new account or sign in
+ Create a new application
+ Copy your **Access Key**
 
 ### Configuration
 
 Add your API key to `script.js`:
 
-```javascript
-const accessKey = "YOUR_UNSPLASH_API_KEY";
-```
+
 
 ### API Endpoints Used
 
@@ -90,18 +87,6 @@ const url = `https://api.unsplash.com/search/photos?page=${page}&query=${keyword
 5. Click any image to view on Unsplash
 6. Click "Show More" to load next page (page += 1)
 
-## 📁 Project Structure
-
-```
-Image-generator/
-├── public/
-│   └── index.html
-├── src/
-│   ├── script.js          (API calls, DOM manipulation)
-│   ├── style.css          (Animations, grid layout)
-│   └── images/
-└── README.md
-```
 
 ## 🎯 Key Features
 
@@ -110,15 +95,23 @@ Image-generator/
 - **Pagination** - Fetch 12 images per page
 - **Async/Await** - Modern fetch implementation
 - **Modern Design** - Purple-to-blue gradient theme
+  
+---
+## 📸 Screenshot
+<img width="1291" height="538" alt="image" src="https://github.com/user-attachments/assets/a49b1589-0202-4a04-b68b-d91cb44eb55a" />
 
-## 📝 License
-
-MIT License - feel free to use this project however you like!
-
-## 🤝 Contributing
-
-Fork it → Create a branch → Commit changes → Push → Open a PR
 
 ---
+
+<img width="1306" height="561" alt="image" src="https://github.com/user-attachments/assets/b21748c6-921a-4a79-a912-629401816c4e" />
+
+
+---
+
+<img width="1299" height="571" alt="image" src="https://github.com/user-attachments/assets/1c23bbca-fc4d-4325-a866-9876ce4374aa" />
+
+
+
+
 
 **Happy Searching!** 🚀
